@@ -24,12 +24,12 @@
 
 
 
-- 👀 &nbsp; Currently exploring new technologies and developing software solutions and quick hacks.
+- 👀 &nbsp; Currently exploring new technologies seeking to develop software solutions with quick hacks.
 - 🎓 &nbsp; Studying Cybersecurity at SRMIST.
 - 👨‍🤝‍👨 &nbsp; I’m looking to collaborate with other content creators
 - 🥅 &nbsp; 2023 Goals: Contribute more to Open Source projects
-- ⚡ &nbsp; Fun fact: I like video games
-- ✉️ &nbsp; Feel free to contact me at e.mohamadissa@gmail.com! Let's innovate, learn, and create amazing things together! ✨
+- 👾 &nbsp; Fun fact: You'll often find me immersed in the virtual realms.
+- ✉️ &nbsp; Feel free to contact me at e.mohamadissa@gmail.com! Let's innovate, learn, and build amazing things together! 🌐🕹️
 
 ## 👨🏻‍💻 &nbsp;Tech Stack
 
