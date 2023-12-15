@@ -29,7 +29,8 @@
 - 👨‍🤝‍👨 &nbsp; I’m looking to collaborate with other content creators
 - 🥅 &nbsp; 2023 Goals: Contribute more to Open Source projects
 - 👾 &nbsp; Fun fact: You'll often find me immersed in the virtual realms.
-- ✉️ &nbsp; Feel free to contact me at e.mohamadissa@gmail.com! Let's innovate, learn, and build amazing things together! 🌐🕹️
+- ✉️ &nbsp; Feel free to contact me at e.mohamadissa@gmail.com! Let's explore the universe of coding together! 🚀✨
+
 
 ## 👨🏻‍💻 &nbsp;Tech Stack
 
