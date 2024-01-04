@@ -1,9 +1,10 @@
 <!-- ### Greetings, this is Mohamad 👋 -->
-<h1> Greetings, It's Mohamad 👋</h1>  
+<h1> Greetings, It's Mohamad 👋</h1>
 
-----
+---
 
-## 🤝🏻 &nbsp;Connect with Me 
+## 🤝🏻 &nbsp;Connect with Me
+
 <p align="center">
 <!-- <a href="https://www.kshitizsaini.com"><img src="https://img.shields.io/badge/-kshitizsaini.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/issa-mohamad/"><img src="https://img.shields.io/badge/-Mohamad%20Issa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -13,23 +14,28 @@
 
 </p>
 
-## 👨‍🚀 &nbsp;About Me
+<!-- ## <picture><img src = "https://raw.githubusercontent.com/mo-isa/mo-isa/main/about_me.gif?raw=true" width = 50px></picture> About me -->
 
+<div style="display: flex; align-items: center; gap:9px">
+<img src="https://raw.githubusercontent.com/mo-isa/mo-isa/main/about_me.gif" alt="ṃo-isa" height=43px, width=43px/> 
+  <span style="font-size: 1.5em; font-weight: bold; color: white">About Me</span>
+
+</div>
 
 <div style="display: flex; align-items: center;  color: #F74A46;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3800&pause=800&vCenter=true&repeat=false&random=false&width=50&lines=I'm" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2700&pause=650&vCenter=true&random=false&width=430&lines=Software+Engineer;Penetration+Tester;Freelancer" alt="Typing SVG" /></a>
 </div>
 
-
-
-
 - 👀 &nbsp; Currently exploring new technologies seeking to develop software solutions with quick hacks.
-- 🎓 &nbsp; Studying Cybersecurity at SRMIST.
-- 👨‍🤝‍👨 &nbsp; I’m looking to collaborate with other content creators
-- 🥅 &nbsp; 2023 Goals: Contribute more to Open Source projects
+- 🎓 &nbsp; Studying Cybersecurity at SRMIST. ``
+- ⚡ &nbsp; I’m currently open for an Intern or a new job opportunity
 - 👾 &nbsp; Fun fact: You'll often find me immersed in the virtual realms.
-- ✉️ &nbsp; Feel free to contact me at e.mohamadissa@gmail.com! Let's explore the universe of coding & build innovative things together! 🚀✨
+- ✉️ &nbsp; Feel free to contact me at e.mohamadissa@gmail.com! Let's explore the universe of coding & build innovative 
+things together! 🚀✨
+<!-- - 🤓 &nbsp; `Always learning new things`. -->
+
+
 
 
 ## 👨🏻‍💻 &nbsp;Tech Stack
@@ -43,8 +49,8 @@
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
@@ -57,9 +63,8 @@
 - ⚙️ &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) 
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -72,9 +77,17 @@
   ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
 
 
-## Watch my contributions get eaten by a snake &nbsp; 🐍
-![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
+<!-- <div style="display: flex; align-items: center;">  -->
 
+<!-- </div> -->
+<!-- ## Watch my contributions get eaten by a snake &nbsp; 🐍
+
+![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg) -->
+
+<details>
+  <summary><h2>Watch my contributions get eaten by a snake 🐍</h2></summary>
+  <img src="https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg" alt="snake gif">
+</details>
 
 
 <div align="center">
@@ -85,3 +98,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mo-isa/count.svg" />
 </p>
+<!-- <details  ><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mo-isa&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
+</details> -->
