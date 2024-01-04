@@ -84,12 +84,6 @@ things together! 🚀✨
 
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg) -->
 
-<details>
-  <summary><h2>Watch my contributions get eaten by a snake 🐍</h2></summary>
-  <br>
-
-  <img src="https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg" alt="snake gif">
-</details>
 
 
 <div align="center">
@@ -100,6 +94,12 @@ things together! 🚀✨
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mo-isa/count.svg" />
 </p>
+<details>
+  <summary><h2>Watch my contributions get eaten by a snake 🐍</h2></summary>
+
+  <img src="https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg" alt="snake gif">
+</details>
+
 <!-- <details  ><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
