@@ -14,14 +14,13 @@
 
 </p>
 
-<!-- ## <picture><img src = "https://raw.githubusercontent.com/mo-isa/mo-isa/main/about_me.gif?raw=true" width = 50px></picture> About me -->
+## <picture><img src = "https://raw.githubusercontent.com/mo-isa/mo-isa/main/about_me.gif?raw=true" width = 50px></picture> About me
 
-<div style="display: flex; align-items: center; gap:9px">
+<!-- <div style="display: flex; align-items: center; gap:9px">
 <img src="https://raw.githubusercontent.com/mo-isa/mo-isa/main/about_me.gif" alt="ṃo-isa" height=43px, width=43px/> 
-	
   <span style="font-size: 1.5em; font-weight: bold; color: white">About Me</span>
 
-</div>
+</div> -->
 
 <div style="display: flex; align-items: center;  color: #F74A46;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3800&pause=800&vCenter=true&repeat=false&random=false&width=50&lines=I'm" alt="Typing SVG" /></a>
@@ -87,7 +86,7 @@ things together! 🚀✨
 
 <details>
   <summary><h2>Watch my contributions get eaten by a snake 🐍</h2></summary>
-  ----
+  <br>
 
   <img src="https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg" alt="snake gif">
 </details>
