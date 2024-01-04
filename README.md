@@ -18,6 +18,7 @@
 
 <div style="display: flex; align-items: center; gap:9px">
 <img src="https://raw.githubusercontent.com/mo-isa/mo-isa/main/about_me.gif" alt="ṃo-isa" height=43px, width=43px/> 
+	
   <span style="font-size: 1.5em; font-weight: bold; color: white">About Me</span>
 
 </div>
@@ -86,6 +87,8 @@ things together! 🚀✨
 
 <details>
   <summary><h2>Watch my contributions get eaten by a snake 🐍</h2></summary>
+  ----
+
   <img src="https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg" alt="snake gif">
 </details>
 
